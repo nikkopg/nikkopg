@@ -1,6 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/70200533/151504053-ebdeacb2-7108-4381-b3d1-ea074306fe1e.jpg)
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Nikko. I'm from Indonesia, and currently as Research Software Engineer at Formulatrix Innovation Lab Indonesia. I'm obviously new here and intending to log my learnings, which may be also useful for someone out there.
 You can find me on [![Twitter][1.2]][1] Twitter, or on [![LinkedIn][2.2]][2] LinkedIn.
 
 <!-- links to social media icons -->
